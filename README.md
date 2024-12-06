@@ -131,4 +131,4 @@ https://github.com/users/miyawakiseiichi/projects/1
 - [x] GoogleMap 5
 
 ### MVPレビュー依頼予定日
-予定日: 2024年 1月 4日
+予定日: 2024年 1月 7日
