@@ -18,19 +18,19 @@ gem "stimulus-rails"
 gem "jbuilder"
 
 # 認証用 (例: Devise)
-gem 'devise'
+gem "devise"
 
 # Google Maps APIのインターフェース
-gem 'geocoder'
+gem "geocoder"
 
 # 通知機能用
-gem 'actioncable'
+gem "actioncable"
 
 # タスク管理用（Firebase連携にはgemやAPIを別途組み合わせる）
-gem 'firebase'
+gem "firebase"
 
 # 画像処理 (RMagick)
-gem 'rmagick'
+gem "rmagick"
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
 # gem "bcrypt", "~> 3.1.7"

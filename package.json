@@ -1,0 +1,24 @@
+{
+  "name": "sm_0601",
+  "version": "1.0.0",
+  "description": "■サービス概要 どんなサービスなのかを３行で説明してください。   筋トレをするうえで、初心者の方がまず初めに困ってしまうのが『なにからやればいいか？』『どの様にすればいいのか？』が考えられます。   また、中級者では『フォームが正しいのか？』『本当に成長しているのか？』『壁にぶつかった時の打開策は？』というものが考えられます。   これらの疑問や筋トレのメニュー・カロリー制限制限(ダイエット用)を解決、またサプリメントやプロテインなどもサポートするためのサービスです。",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyawakiseiichi/0601_SM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miyawakiseiichi/0601_SM/issues"
+  },
+  "homepage": "https://github.com/miyawakiseiichi/0601_SM#readme"
+}
